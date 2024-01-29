@@ -3,11 +3,11 @@
    <h4>Welcome to the repository for my Java internship projects at CODTECH IT SOLUTIONS. During this internship, I worked on several projects to enhance my Java programming skills. Below is an overview of each project:</h4>
   
   
-    Basic Calculator
-    Number Guessing Game
-    Student Grade Management System
-    Tic Tae Toe
-    Text File Encryption/Decryption
+    1.Basic Calculator
+    2.Number Guessing Game
+    3.Student Grade Management System
+    4.Tic Tae Toe
+    5.Text File Encryption/Decryption
   
 
   <h4>1. Basic Calculator</h4>
