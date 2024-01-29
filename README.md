@@ -2,6 +2,15 @@
 
    <h4>Welcome to the repository for my Java internship projects at CODTECH IT SOLUTIONS. During this internship, I worked on several projects to enhance my Java programming skills. Below is an overview of each project:</h4>
 
+
+<ol>
+   <li>Basic Calculator</li>
+   <li>Tic Tac Toe</li>
+   <li>Student Grade Management System</li>
+   <li>Number Guessing Game</li>
+   <li>Text File Encryption and Decryption</li>
+</ol>
+
 <h4>1. Basic Calculator</h4>
 
    A simple Java program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates fundamental programming concepts and user input handling.
@@ -9,7 +18,7 @@
  **Output Video:** https://drive.google.com/file/d/1WvJTaJxLXpGUiHZpu9RIJnbDYvFafp6z/view?usp=drivesdk
 
 
-<h4>2. Tic Tac Toe</h4>
+<h4>2.Tic Tac Toe</h4>
 
    An implementation of the classic Tic Tac Toe game in Java. It includes a user-friendly interface, two-player functionality, and logic to determine the winner of the game.
 
