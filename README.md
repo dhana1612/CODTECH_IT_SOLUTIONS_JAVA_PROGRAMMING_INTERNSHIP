@@ -17,19 +17,19 @@
 
   <h4>2. Tic Tac Toe</h4>
 
-      <p>An implementation of the classic Tic Tac Toe game in Java. It includes a user-friendly interface, two-player functionality, and logic to determine the winner of the game.</p>
+      An implementation of the classic Tic Tac Toe game in Java. It includes a user-friendly interface, two-player functionality, and logic to determine the winner of the game.
 
   <h4>3. Student Grade Management System</h4>
 
-      <p>This project focuses on managing student grades. It allows users to input and track student information, including grades for various subjects. It showcases skills in data management and manipulation in a Java application.</p>
+      This project focuses on managing student grades. It allows users to input and track student information, including grades for various subjects. It showcases skills in data management and manipulation in a Java application.
 
  <h4>4. Number Guessing Game</h4>
 
-      <p>An interactive number guessing game where the user tries to guess a randomly generated number within a specified range. The program provides feedback to the user, making it an engaging project for practising conditional statements and user interaction.</p>
+      An interactive number-guessing game where the user tries to guess a randomly generated number within a specified range. The program provides feedback to the user, making it an engaging project for practising conditional statements and user interaction.
 
  <h4>5. Text File Encryption and Decryption</h4>
 
-    <p>This project involves encrypting and decrypting text files using Java. It demonstrates knowledge of file handling, encryption algorithms, and basic security concepts. Users can encrypt a text file for secure storage and decrypt it when needed.</p>
+    This project involves encrypting and decrypting text files using Java. It demonstrates knowledge of file handling, encryption algorithms, and basic security concepts. Users can encrypt a text file for secure storage and decrypt it when needed.
 
         
 
