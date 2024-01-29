@@ -12,7 +12,7 @@
 
   <h4>1. Basic Calculator</h4>
 
-        <p>A simple Java program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates fundamental programming concepts and user input handling.</p>
+        A simple Java program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates fundamental programming concepts and user input handling.
 
 
   <h4>2. Tic Tac Toe</h4>
