@@ -29,7 +29,7 @@
 
  <h4>5. Text File Encryption and Decryption</h4>
 
-    This project involves encrypting and decrypting text files using Java. It demonstrates knowledge of file handling, encryption algorithms, and basic security concepts. Users can encrypt a text file for secure storage and decrypt it when needed.
+   This project involves encrypting and decrypting text files using Java. It demonstrates knowledge of file handling, encryption algorithms, and basic security concepts. Users can encrypt a text file for secure storage and decrypt it when needed.
 
  **Output Video:** https://drive.google.com/file/d/1XJz4kCr3m51Gebj3C5j3R8IibnaOE-rL/view?usp=drivesdk
 
